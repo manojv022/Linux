@@ -1,1 +1,1 @@
-# $${\color{blue} Linux}:$$
+# $${\color{blue} \textbf{Linux}}:$$
