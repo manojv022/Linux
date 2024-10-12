@@ -1,4 +1,4 @@
-# $${\color{blue} \textbf{Linux}}:$$
+ # $${\color{blue} \textbf{Linux}}:$$
 
 
 1. File Permissions 💡
