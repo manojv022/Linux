@@ -5,7 +5,7 @@
 
 A developer is unable to execute a script, even though they are the owner. How would you diagnose and resolve this issue?
 
-
+  
 2. Process Management💡
 
 A high CPU usage alert has been triggered for a process. How would you identify the process and reduce its CPU usage without terminating it?
