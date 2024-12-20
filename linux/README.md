@@ -1,4 +1,4 @@
-# Day-1 DevOps Notes for Students 
+
 
 ## 1. Introduction to DevOps
 DevOps is a combination of cultural philosophies, practices, and tools that increase an organization's ability to deliver applications and services at high velocity. It bridges the gap between development (Dev) and operations (Ops), enabling faster and more reliable software delivery.
