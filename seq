@@ -1,3 +1,5 @@
+## seq command in Linux is used to generate a sequence of numbers. It is commonly used in shell scripts or commands when you need to produce a range of numbers.
+
 seq [options] <start> <end>
 
  seq 1 5
