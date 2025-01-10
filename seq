@@ -14,3 +14,18 @@ seq [options] <start> <end>
      seq -s ","  1 8
 - -w: Pads the numbers with leading zeros to make them the same width:
      seq -w  1 5
+
+
+## looping:
+   -  seq to generate numbers to use in a for loop. For example, you could loop from 1 to 5 and print each number:
+
+for i in $(seq 1 5); do
+  echo "Processing number $i"
+done
+
+
+   -  generate a sequence of files with numbered names, you can use seq in combination with a loop:
+
+for i in $(seq 1 5); do
+  touch "file_$i.txt"
+done
