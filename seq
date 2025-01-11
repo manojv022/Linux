@@ -16,7 +16,7 @@ seq [options] <start> <end>
      seq -w  1 5
 
 
-## looping:
+## looping: while , for 
    -  seq to generate numbers to use in a for loop. For example, you could loop from 1 to 5 and print each number:
 
 for i in $(seq 1 5); do
