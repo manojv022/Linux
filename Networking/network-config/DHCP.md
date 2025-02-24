@@ -18,3 +18,37 @@ sudo systemctl restart network
       dhcp4: true
 - sudo netplan apply
 
+
+
+----------
+
+#### older version:
+
+- sudo vi /etc/network/interfaces
+auto eth0
+iface eth0 inet dhcp
+- sudo systemctl restart networking
+
+
+
+--------
+
+#### Static: 
+
+- Configure Networking with Static IP (Manual IP Configuration):
+
+- sudo vi /etc/netplan/00-installer-config.yaml
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    eth0:
+      dhcp4: false
+      addresses:
+        - 192.168.1.100/24   # Static IP and subnet mask
+      gateway4: 192.168.1.1  # Gateway
+      nameservers:
+        addresses:
+          - 8.8.8.8           # Primary DNS
+          - 8.8.4.4           # Secondary DNS
+- sudo netplan apply
