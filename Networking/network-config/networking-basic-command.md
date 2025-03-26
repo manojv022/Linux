@@ -16,9 +16,12 @@
  
  ✅ ip route show – Show routing details
 
-🔎 Port & Connection Monitoring
+- 🔎 Port & Connection Monitoring
+
  ✅ netstat -tulnp – Show active ports and connections
+ 
  ✅ ss -tulnp – Faster alternative to netstat
+ 
  ✅ lsof -i :<port> – Check which process is using a specific port
 
 🛜 DNS & Hostname Lookups
