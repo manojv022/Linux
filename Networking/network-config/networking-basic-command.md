@@ -6,7 +6,7 @@
  
  ✅ hostname -I – Show system’s IP address
 
-🌍 Connectivity & Routing
+- 🌍 Connectivity & Routing
 
  ✅ ping <host> – Test network connectivity
  
