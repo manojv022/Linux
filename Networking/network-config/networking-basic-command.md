@@ -24,13 +24,20 @@
  
  ✅ lsof -i :<port> – Check which process is using a specific port
 
-🛜 DNS & Hostname Lookups
+- 🛜 DNS & Hostname Lookups
+  
  ✅ nslookup <domain> – Query DNS records
+ 
  ✅ dig <domain> – Get detailed DNS information
+ 
 📡 Packet Capture & Network Scanning
+
  ✅ tcpdump -i eth0 – Capture live network traffic
+ 
  ✅ nmap <IP> – Scan open ports and services
 
-📥 Web & File Transfers
+- 📥 Web & File Transfers
+  
  ✅ curl -I <URL> – Fetch HTTP headers
+ 
  ✅ wget <URL> – Download files from the web
