@@ -1,12 +1,19 @@
-🖥️ Network Interface & IP Info
+-  🖥️ Network Interface & IP Info
+  
  ✅ ip a – Show IP addresses (modern alternative to ifconfig)
+ 
  ✅ ifconfig – Display and configure network interfaces
+ 
  ✅ hostname -I – Show system’s IP address
 
 🌍 Connectivity & Routing
+
  ✅ ping <host> – Test network connectivity
+ 
  ✅ traceroute <host> – Trace the path to a destination
+ 
  ✅ route -n – Display routing table
+ 
  ✅ ip route show – Show routing details
 
 🔎 Port & Connection Monitoring
