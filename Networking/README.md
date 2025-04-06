@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/37d79566-bc9b-4d00-b02d-377991d4bfab)
+
+
 1) What is the OSI Model? Can you explain its layers?
 2) What is a subnet, and why is it used?
 3) What is the difference between a switch and a router?
