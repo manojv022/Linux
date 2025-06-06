@@ -1,4 +1,4 @@
-Here are some common **Linux-related interview questions** for a **DevOps** position. These questions assess your understanding of Linux system administration, automation, and troubleshooting skills that are crucial for a DevOps role:
+- Here are some common **Linux-related interview questions** for a **DevOps** position. These questions assess your understanding of Linux system administration, automation, and troubleshooting skills that are crucial for a DevOps role:
 
 ### 1. **Basic Linux Commands:**
    - What is the difference between `ps` and `top` commands?
