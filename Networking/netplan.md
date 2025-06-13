@@ -1,4 +1,4 @@
-
+ 
 Netplan is a utility for easily configuring networking on Linux systems, particularly those using **systemd-networkd** or **NetworkManager** as a backend. It is most commonly used on **Ubuntu 17.10 and later**.
 
 ---
