@@ -1,1 +1,4 @@
-
+lscpu
+lspci
+lsusb
+lsmod
