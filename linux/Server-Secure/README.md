@@ -1,4 +1,5 @@
-lscpu
-lspci
-lsusb
-lsmod
+- lscpu:
+  
+- lspci:
+- lsusb:
+- lsmod:
